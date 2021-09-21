@@ -5,7 +5,7 @@
 }
 
 body {
-    /* CSS comment example - more on color code below in a minute! */
+    /* CSS comment example */
     color: #39a6b2;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -258,10 +258,27 @@ section {
 
 .contact-info div {
     width: 410px;
-    display:inline-block;
+    display: inline-block;
     vertical-align: top;
     text-align: left;
     margin: 30px 0 0 60px;
     color: white;
+}
+
+.contact-info h3 {
+    color: #fce138;
+    font-size: 32px;
+}
+
+.contact-info p, 
+.contact-info address {
+    margin: 20px 0;
+    line-height: 1.5;
+    font-size: 20px;
+    font-style: normal;
+}
+
+.contact-info a {
+    color: #fce138;
 }
 /* Reach Out Styles End */
