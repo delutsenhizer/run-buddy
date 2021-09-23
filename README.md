@@ -12,3 +12,5 @@ https://delutsenhizer.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Del Lutsenhizer
+
+### &copy2019 Run Buddy, Inc
